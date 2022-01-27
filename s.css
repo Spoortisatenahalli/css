@@ -1,0 +1,47 @@
+h1, h2{
+    color: red;
+    
+}
+
+h3{
+    font-size: 20 PX;
+    color: red;
+}
+
+.test{
+    color: rgb(156, 64, 21);
+}
+
+span{
+    background-color: yellow;
+}
+
+ol li{
+    font-size: 10 px;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+ul li{
+    font-size: 100 px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15 px;
+    color: brown;
+    letter-spacing: 5px;
+    
+    
+}
+
+p{
+    color: darkred;
+    font-size: large;
+}
+
+a{
+    background-color: coral;
+}
+
+div{
+    font-size: 40 px;
+    color: brown;
+}
